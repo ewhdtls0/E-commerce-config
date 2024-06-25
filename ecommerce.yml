@@ -1,6 +1,6 @@
 token:
-  expiration_time: 86400000
-  secret: user_tokenuser_tokenuser_tokenuser_tokenuser_tokenuser_tokenuser_tokenuser_token222333
+  expiration_time: 8640000
+  secret: user_tokenuser_tokenuser_tokenuser_tokenuser_tokenuser_tokenuser_tokenuser_token2222111333
 
 gateway:
   ip: 192.168.219.105
