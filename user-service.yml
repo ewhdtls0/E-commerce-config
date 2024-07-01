@@ -1,0 +1,9 @@
+token:
+  expiration_time: 8640000
+  secret: user_tokenuser_tokenuser_tokenuser_tokenuser_tokenuser_tokenuser_tokenuser_token
+
+gateway:
+  ip: 192.168.219.105
+
+order-service:
+  url: http://127.0.0.1/order-service/%s/orders
